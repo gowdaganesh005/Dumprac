@@ -17,11 +17,11 @@ const Home = () => {
       />
 
       {/* Top Text */}
-      <div className="absolute font-oswald top-5 w-full text-center text-7xl md:text-5xl bg-gradient-to-r from-purple-900 to-blue-200 bg-clip-text text-transparent">
+      <div className="absolute font-oswald top-5 w-full text-center text-3xl md:text-6xl bg-gradient-to-r from-purple-900 to-blue-200 bg-clip-text text-transparent">
         Experience The Power
       </div>
 
-      <div className="absolute font-oswald left-20  top-10 w-20 text-left text-5xl md:text-3xl text-white">
+      <div className="absolute font-oswald left-20  top-20 w-20 text-left text-3xl md:text-6xl text-white">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, atque?
       </div>
 
